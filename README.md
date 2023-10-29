@@ -1,1 +1,1 @@
-db
+`sudo su postgres`
