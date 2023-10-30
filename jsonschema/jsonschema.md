@@ -10,6 +10,9 @@ The error you're encountering is due to the structure of the JSON data not match
 ## object  
 objects are the mapping type in JSON. They map "keys" to "values". In Json, the "keys" must always be strings. Each of these pairs is conventionally reffered to as a "property".  
 
+# Arrays of things  
+- An array of string values. 
+- An array of objects.  
 
 # References  
 https://json-schema.org/  
